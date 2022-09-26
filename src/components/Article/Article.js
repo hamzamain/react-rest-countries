@@ -12,6 +12,7 @@ const Article = () => {
           expedita saepe tempore eaque. Aliquid fugiat placeat quasi, magnam
           debitis similique.
         </p>
+        <small>hello for comfirm git is working</small>
       </article>
     </div>
   );
