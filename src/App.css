@@ -32,7 +32,17 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.country {
+  border: 2px solid purple;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: lightslategrey;
+  color: wheat;
 }
